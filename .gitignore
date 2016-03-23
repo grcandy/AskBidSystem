@@ -1,2 +1,5 @@
 pysp/
+.db.sqlite3.swp
 db.sqlite3
+*.pyc
+.drectory
